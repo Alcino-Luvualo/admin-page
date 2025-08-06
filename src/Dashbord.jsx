@@ -2,8 +2,7 @@ import './index.css'
 
 function Dashboard(){
     return (
-<div className="container">
-    <div className="dashboard">
+    <div className="dashboard-container">
             <div className="header">
             <   svg className='keni' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>view-dashboard</title><path d="M13,3V9H21V3M13,21H21V11H13M3,21H11V15H3M3,13H11V3H3V13Z" /></svg>
                 <h2>Dashboard</h2>
@@ -48,10 +47,6 @@ function Dashboard(){
         
     </div>
 
-
-
-
-</div>
     )
 }
 
