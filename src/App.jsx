@@ -1,11 +1,12 @@
-
+import Dashboard from './Dashbord'
 import './App.css'
 
 function App() {
 
   return (
     <div>
-      <h1>Ola</h1>
+      <Dashboard/>
+      
     </div>
   )
 }
