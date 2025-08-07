@@ -1,4 +1,4 @@
-# ��️ Admin Dashboard
+# Admin Dashboard
 
 Uma interface de administração moderna e responsiva construída com React e Vite, oferecendo uma experiência de usuário intuitiva para gerenciamento de projetos e conteúdo.
 
@@ -51,11 +51,6 @@ Uma interface de administração moderna e responsiva construída com React e Vi
    npm run dev
    ```
 
-4. **Acesse a aplicação**
-   ```
-   http://localhost:5173
-   ```
-
 ## 📦 Scripts Disponíveis
 
 - `npm run dev` - Inicia o servidor de desenvolvimento
@@ -67,6 +62,7 @@ Uma interface de administração moderna e responsiva construída com React e Vi
 
 admin-page/
 ├── src/
+
 │ ├── assets/ # Imagens e recursos
 │ │ └── perfil.PNG # Imagem de perfil
 │ ├── App.jsx # Componente principal
