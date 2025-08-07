@@ -58,26 +58,6 @@ Uma interface de administração moderna e responsiva construída com React e Vi
 - `npm run preview` - Visualiza o build de produção
 - `npm run lint` - Executa o linter
 
-## 🏗️ Estrutura do Projeto
-
-admin-page/
-├── src/
-
-│ ├── assets/ # Imagens e recursos
-│ │ └── perfil.PNG # Imagem de perfil
-│ ├── App.jsx # Componente principal
-│ ├── Painel.jsx # Painel de conteúdo principal
-│ ├── Dashbord.jsx # Sidebar de navegação
-│ ├── index.css # Estilos globais e responsivos
-│ └── main.jsx # Ponto de entrada da aplicação
-├── public/ # Arquivos públicos
-├── index.html # HTML base
-├── package.json # Dependências e scripts
-├── vite.config.js # Configuração do Vite
-└── eslint.config.js # Configuração do ESLint
-
-
-
 ## 🎨 Componentes Principais
 
 ### Dashboard (Sidebar)
